@@ -27,14 +27,14 @@ Python 3.7.7
 
 ### Instalación
 
-Descargue Python 3.7.7 de un sitio oficial y luego copie el archivo llamado *complexcalculator.py* en donde quiera utilizar la librería.
+Descargue Python 3.7.7 de un sitio oficial y luego copie el archivo llamado *complexvectors.py* en donde quiera utilizar la librería.
 
  ## Ejemplos
 
-Estos son ejemplos de como utilizar todas las funciones implementadas. Recuerde que si importaron complexcalculator deben utilizar complexcalculator. antes del nombre de cada función, este nombre puede cambiar si lo importaron y le cambiaron el nombre de la siguiente manera: 
+Estos son ejemplos de como utilizar todas las funciones implementadas. Recuerde que si importaron complexvectors deben utilizar complexvectors. antes del nombre de cada función, este nombre puede cambiar si lo importaron y le cambiaron el nombre de la siguiente manera: 
 
 ```python
-import complexcalculator as cc
+import complexvectors as cc
 ```
 
 En este caso seria cc. y la función.
