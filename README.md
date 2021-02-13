@@ -61,11 +61,11 @@ hermitian([[(3 + 0j), (2 - 1j), (-3j)], [(2 + 1j), (0 + 0j), (1 - 1j)], [(0 + 3j
 
 ## Ejecutando las pruebas 
 
-Para ejecutar las pruebas abra el archivo *unittest.py* y ejecútelo por consola o IDE.
+Para ejecutar las pruebas abra el archivo *unitest.py* y ejecútelo por consola o IDE.
 
 ### Analice las pruebas end-to-end
 
-Esta prueba unittest nos permite verificar que la librería este correcta comparando los resultados de esta con valores resultados de las operaciones de números complejos.
+Esta prueba unittest nos permite verificar que la librería este correcta comparando los resultados de esta con valores resultados de las operaciones de vectores complejos.
 
 ## Construido con 
 
